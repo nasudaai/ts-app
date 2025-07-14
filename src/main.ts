@@ -1,6 +1,6 @@
 const hello: string = "Hello World!";
 
-function main() {
+function main(): void {
   console.log(hello);
 }
 
